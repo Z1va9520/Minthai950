@@ -1,3 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Homework_03
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string name;
+            Console.Write("Enter Name: ");
+            name = Console.ReadLine();
+            Console.WriteLine("Hello " + name);
 
+        }
+    }
+}
