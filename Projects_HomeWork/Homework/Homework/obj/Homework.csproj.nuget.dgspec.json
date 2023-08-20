@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/macsintoshhd/Minthai950/Projects_HomeWork/Homework/Homework/Homework.csproj": {}
+  },
+  "projects": {
+    "/Users/macsintoshhd/Minthai950/Projects_HomeWork/Homework/Homework/Homework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macsintoshhd/Minthai950/Projects_HomeWork/Homework/Homework/Homework.csproj",
+        "projectName": "Homework",
+        "projectPath": "/Users/macsintoshhd/Minthai950/Projects_HomeWork/Homework/Homework/Homework.csproj",
+        "packagesPath": "/Users/macsintoshhd/.nuget/packages/",
+        "outputPath": "/Users/macsintoshhd/Minthai950/Projects_HomeWork/Homework/Homework/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/macsintoshhd/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/macsintoshhd/.vscode-dotnet-sdk/.dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
