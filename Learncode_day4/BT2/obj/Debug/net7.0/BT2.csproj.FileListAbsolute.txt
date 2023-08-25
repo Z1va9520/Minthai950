@@ -1,0 +1,14 @@
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/bin/Debug/net7.0/BT2
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/bin/Debug/net7.0/BT2.deps.json
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/bin/Debug/net7.0/BT2.runtimeconfig.json
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/bin/Debug/net7.0/BT2.dll
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/bin/Debug/net7.0/BT2.pdb
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/obj/Debug/net7.0/BT2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/obj/Debug/net7.0/BT2.AssemblyInfoInputs.cache
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/obj/Debug/net7.0/BT2.AssemblyInfo.cs
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/obj/Debug/net7.0/BT2.csproj.CoreCompileInputs.cache
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/obj/Debug/net7.0/BT2.dll
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/obj/Debug/net7.0/refint/BT2.dll
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/obj/Debug/net7.0/BT2.pdb
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/obj/Debug/net7.0/BT2.genruntimeconfig.cache
+/Users/macsintoshhd/Minthai950/Learncode_day4/BT2/obj/Debug/net7.0/ref/BT2.dll
