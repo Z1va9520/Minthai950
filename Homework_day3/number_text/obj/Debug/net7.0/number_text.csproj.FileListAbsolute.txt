@@ -1,0 +1,14 @@
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/bin/Debug/net7.0/number_text
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/bin/Debug/net7.0/number_text.deps.json
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/bin/Debug/net7.0/number_text.runtimeconfig.json
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/bin/Debug/net7.0/number_text.dll
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/bin/Debug/net7.0/number_text.pdb
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/obj/Debug/net7.0/number_text.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/obj/Debug/net7.0/number_text.AssemblyInfoInputs.cache
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/obj/Debug/net7.0/number_text.AssemblyInfo.cs
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/obj/Debug/net7.0/number_text.csproj.CoreCompileInputs.cache
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/obj/Debug/net7.0/number_text.dll
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/obj/Debug/net7.0/refint/number_text.dll
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/obj/Debug/net7.0/number_text.pdb
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/obj/Debug/net7.0/number_text.genruntimeconfig.cache
+/Users/macsintoshhd/Minthai950/Homework_day3/number_text/obj/Debug/net7.0/ref/number_text.dll

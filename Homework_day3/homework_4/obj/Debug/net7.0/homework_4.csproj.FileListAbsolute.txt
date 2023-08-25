@@ -1,0 +1,14 @@
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/obj/Debug/net7.0/homework_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/obj/Debug/net7.0/homework_4.AssemblyInfoInputs.cache
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/obj/Debug/net7.0/homework_4.AssemblyInfo.cs
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/obj/Debug/net7.0/homework_4.csproj.CoreCompileInputs.cache
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/bin/Debug/net7.0/homework_4
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/bin/Debug/net7.0/homework_4.deps.json
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/bin/Debug/net7.0/homework_4.runtimeconfig.json
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/bin/Debug/net7.0/homework_4.dll
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/bin/Debug/net7.0/homework_4.pdb
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/obj/Debug/net7.0/homework_4.dll
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/obj/Debug/net7.0/refint/homework_4.dll
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/obj/Debug/net7.0/homework_4.pdb
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/obj/Debug/net7.0/homework_4.genruntimeconfig.cache
+/Users/macsintoshhd/Minthai950/Homework_day3/homework_4/obj/Debug/net7.0/ref/homework_4.dll

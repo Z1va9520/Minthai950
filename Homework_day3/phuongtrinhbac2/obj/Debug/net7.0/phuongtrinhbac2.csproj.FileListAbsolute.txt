@@ -1,0 +1,14 @@
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/obj/Debug/net7.0/phuongtrinhbac2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/obj/Debug/net7.0/phuongtrinhbac2.AssemblyInfoInputs.cache
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/obj/Debug/net7.0/phuongtrinhbac2.AssemblyInfo.cs
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/obj/Debug/net7.0/phuongtrinhbac2.csproj.CoreCompileInputs.cache
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/bin/Debug/net7.0/phuongtrinhbac2
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/bin/Debug/net7.0/phuongtrinhbac2.deps.json
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/bin/Debug/net7.0/phuongtrinhbac2.runtimeconfig.json
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/bin/Debug/net7.0/phuongtrinhbac2.dll
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/bin/Debug/net7.0/phuongtrinhbac2.pdb
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/obj/Debug/net7.0/phuongtrinhbac2.dll
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/obj/Debug/net7.0/refint/phuongtrinhbac2.dll
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/obj/Debug/net7.0/phuongtrinhbac2.pdb
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/obj/Debug/net7.0/phuongtrinhbac2.genruntimeconfig.cache
+/Users/macsintoshhd/Minthai950/Homework_day3/phuongtrinhbac2/obj/Debug/net7.0/ref/phuongtrinhbac2.dll

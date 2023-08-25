@@ -1,0 +1,14 @@
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/bin/Debug/net7.0/Homework_day3
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/bin/Debug/net7.0/Homework_day3.deps.json
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/bin/Debug/net7.0/Homework_day3.runtimeconfig.json
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/bin/Debug/net7.0/Homework_day3.dll
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/bin/Debug/net7.0/Homework_day3.pdb
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/obj/Debug/net7.0/Homework_day3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/obj/Debug/net7.0/Homework_day3.AssemblyInfoInputs.cache
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/obj/Debug/net7.0/Homework_day3.AssemblyInfo.cs
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/obj/Debug/net7.0/Homework_day3.csproj.CoreCompileInputs.cache
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/obj/Debug/net7.0/Homework_day3.dll
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/obj/Debug/net7.0/refint/Homework_day3.dll
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/obj/Debug/net7.0/Homework_day3.pdb
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/obj/Debug/net7.0/Homework_day3.genruntimeconfig.cache
+/Users/macsintoshhd/Minthai950/Homework_day3/Homework_day3/obj/Debug/net7.0/ref/Homework_day3.dll
