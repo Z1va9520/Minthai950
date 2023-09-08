@@ -1,0 +1,14 @@
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/bin/Debug/net7.0/Game_S
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/bin/Debug/net7.0/Game_S.deps.json
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/bin/Debug/net7.0/Game_S.runtimeconfig.json
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/bin/Debug/net7.0/Game_S.dll
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/bin/Debug/net7.0/Game_S.pdb
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/obj/Debug/net7.0/Game_S.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/obj/Debug/net7.0/Game_S.AssemblyInfoInputs.cache
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/obj/Debug/net7.0/Game_S.AssemblyInfo.cs
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/obj/Debug/net7.0/Game_S.csproj.CoreCompileInputs.cache
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/obj/Debug/net7.0/Game_S.dll
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/obj/Debug/net7.0/refint/Game_S.dll
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/obj/Debug/net7.0/Game_S.pdb
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/obj/Debug/net7.0/Game_S.genruntimeconfig.cache
+/Users/macsintoshhd/Minthai950/learncode_day7/Game_S/obj/Debug/net7.0/ref/Game_S.dll
